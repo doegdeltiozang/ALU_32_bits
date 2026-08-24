@@ -1,6 +1,3 @@
-// SPDX-License-Identifier: Apache-2.0
-// Copyright 2023 MERL-DSU
-// Modified from the supplied source for this repository, 2026.
 
 `timescale 1ns/1ps
 `default_nettype none
